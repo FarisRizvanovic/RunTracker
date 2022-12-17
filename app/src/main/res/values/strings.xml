@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RunTracker</string>
+    <string name="google_maps_key">AIzaSyBqKtFbu-VbhH1vX8di4wFmi8eBN6mvSK0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+</resources>
